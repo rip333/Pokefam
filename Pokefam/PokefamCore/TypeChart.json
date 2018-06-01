@@ -1,0 +1,104 @@
+[
+  {
+    "Type": "Pure",
+    "Double": [],
+    "Half": [ "Steel", "Rock" ],
+    "Zero": [ "Soul" ]
+  },
+  {
+    "Type": "Fire",
+    "Double": [ "Plant", "Poison", "Steel", "Necrotic" ],
+    "Half": [ "Fire", "Water", "Fiend", "Radiant", "Rock" ],
+    "Zero": []
+  },
+  {
+    "Type": "Thunder",
+    "Double": ["Water","Wind"],
+    "Half": ["Thunder", "Plant"],
+    "Zero": ["Rock"]
+  },
+  {
+    "Type": "Ice",
+    "Double": ["Water", "Plant", "Fey", "Wind"],
+    "Half": ["Fire","Ice", "Steel", "Soul"],
+    "Zero": []
+  },
+  {
+    "Type": "Water",
+    "Double": [],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Acid",
+    "Double": [],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Poison",
+    "Double": [],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Plant",
+    "Double": [],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Radiant",
+    "Double": [],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Fiend",
+    "Double": ["Soul"],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Fey",
+    "Double": [],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Psychic",
+    "Double": [],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Necrotic",
+    "Double": ["Plant"],
+    "Half": ["Fiend", "Radiant"],
+    "Zero": []
+  },
+  {
+    "Type": "Wind",
+    "Double": ["Soul","Poison","Plant"],
+    "Half": ["Rock","Steel","Water"],
+    "Zero": []
+  },
+  {
+    "Type": "Steel",
+    "Double": [],
+    "Half": [],
+    "Zero": ["Soul"]
+  },
+  {
+    "Type": "Rock",
+    "Double": ["Thunder"],
+    "Half": [],
+    "Zero": []
+  },
+  {
+    "Type": "Soul",
+    "Double": ["Psychic"],
+    "Half": [],
+    "Zero": []
+  }
+]
